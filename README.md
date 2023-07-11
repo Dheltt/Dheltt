@@ -22,7 +22,7 @@
 ![](https://github-contributor-stats.vercel.app/api?username=Dheltt&limit=5&theme=gruvbox&combine_all_yearly_contributions=true)
 
 ### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQW6wWCFf_Sr9taWyqYX8w7AJvgmeEZIwwzHg&usqp=CAU" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Dheltt&icon=0&color=2)](https://visitcount.itsvg.in)
